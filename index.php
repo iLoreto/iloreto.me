@@ -72,7 +72,7 @@
 				<li>
 					<h3>Web Authoring</h3>
 					<p>
-						HTML5, CSS 5, JavaScript
+						HTML5, CSS 3, JavaScript
 					</p>
 				</li>
 
