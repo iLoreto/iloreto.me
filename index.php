@@ -1,5 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<title>iLoreto.me - Home</title>
@@ -60,19 +59,19 @@
 				<li>
 					<h3>Database Administration</h3>
 					<p>
-						SQL Server, MySQL and Legacy MS Access
+						SQL Server, MySQL and MS Access, MS Office Automation
 					</p>
 				</li>
 				<li>
 					<h3>Web Server Applications</h3>
 					<p>
-						Apache, Linux, PHP, Drupal
+						Apache, Linux, PHP, Drupal, Node
 					</p>
 				</li>
 				<li>
 					<h3>Web Authoring</h3>
 					<p>
-						HTML5, CSS 3, JavaScript
+						HTML5, CSS 3, JavaScript, CoffeeScript, JSON
 					</p>
 				</li>
 
@@ -89,7 +88,7 @@
 			<li class="first">
 				<h3><a target="_blank" href= "https://llu.instructure.com/eportfolios/4120">LLU - Physical Therapy Data Administration System (PTDAS)</a></h3>
 				<p>
-					An enterprise-level solution to manage departmental data, organize digital media and facilitate the coordination of clinical education for Physical Therapy at Loma Linda University.
+					An enterprise-level solution to manage department data, organize digital media and facilitate the coordination of clinical education for Physical Therapy at Loma Linda University.
 				</p>
 				<a target="_blank" href="https://llu.instructure.com/eportfolios/4120" class="button-style">Read More</a>
 			</li>
