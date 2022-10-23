@@ -83,7 +83,7 @@
 <div id="three-column">
 	<div id="tbox2">
 		<h2>My Work</h2>
-
+		<!-- 
 		<ul class="style2">
 			<li class="first">
 				<h3><a target="_blank" href= "https://llu.instructure.com/eportfolios/4120">LLU - Physical Therapy Data Administration System (PTDAS)</a></h3>
@@ -94,6 +94,7 @@
 			</li>
 
 		</ul>
+	-->
 	</div>
 	<div id="tbox3">
 
