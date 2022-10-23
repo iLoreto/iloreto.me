@@ -37,12 +37,7 @@
 			I am a husband and a father to 2 wonderful boys in sunny California.
 		</p>
 		<!--<p><a href="#" class="button-style">Read More</a></p>-->
-		<h2>Software Developer</h2>
-		<p>
-			One of my passions is to create software solutions using a variety of technologies.
-			<br>
-			Programs talking to other prgrams, reusing components, building multi-tiered systems using Object-Oriented programming is the backbone of my coding style.
-		</p>
+		
 		<!--<p><a href="#" class="button-style">Read More</a></p>-->
 
 	</div>
@@ -83,6 +78,12 @@
 <div id="three-column">
 	<div id="tbox2">
 		<h2>My Work</h2>
+		<h3>Software Developer</h3>
+		<p>
+			My passion is to create software solutions using a variety of technologies.
+			<br>
+			Programs talking to other prgrams, reusing components, building multi-tiered systems using Object-Oriented programming is the backbone of my coding style.
+		</p>
 		<!-- 
 		<ul class="style2">
 			<li class="first">
@@ -102,19 +103,20 @@
 
 		<ul class="style1">
 			<li class="first">
-				Build Lego with my boys.
+			Enjoy a film with my wife.	
 			</li>
 			<li>
-				Take day trips to Disneyland.
+				Take day trips to the city.
 			</li>
 			<li>
-				Enjoy a film with my wife.
+			Jam music with my boys.	
+			
 			</li>
 			<li>
 				Go out for a bike ride with the family.
 			</li>
 			<li>
-				Play electric guitar and jam with my brothers.
+				Play guitar and mix tracks while streaming.
 			</li>
 
 		</ul>
