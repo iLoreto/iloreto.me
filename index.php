@@ -31,10 +31,12 @@
 		<h2>Welcome</h2>
 
 		<p>
-			I am an aspiring software architect. I enjoy solving problems and building computer systems to help all kinds of people. I have been working as an Application Analyst for over 8 years. I love what I do.
+			I am a software architect. I enjoy solving problems and building computer systems to help 
+			all kinds of people. I have been an Application Analyst for over 18 years. 
+			I love what I do.
 		</p>
 		<p>
-			I am a husband and a father to 2 wonderful boys in sunny California.
+			I am a husband and a father to 2 wonderful sons in sunny California.
 		</p>
 		<!--<p><a href="#" class="button-style">Read More</a></p>-->
 		
@@ -103,13 +105,13 @@
 
 		<ul class="style1">
 			<li class="first">
-			Enjoy a film with my wife.	
+				Enjoy a film with my wife.	
 			</li>
 			<li>
 				Take day trips to the city.
 			</li>
 			<li>
-			Jam music with my boys.	
+				Jam music with my boys.	
 			
 			</li>
 			<li>
