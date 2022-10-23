@@ -118,7 +118,7 @@
 				Go out for a bike ride with the family.
 			</li>
 			<li>
-				Play guitar and mix tracks while streaming.
+				Play guitar and mix tracks while streaming live on <a href='https://twitch.tv/djh4kor' target='_blank' >twitch.tv.</a>
 			</li>
 
 		</ul>
@@ -132,7 +132,10 @@
 
 		<a target="_blank" href="https://www.linkedin.com/in/iloreto">
 			<br>
-			<img src="images/btn_liprofile_blue_80x15.png" width="80" height="15" border="0" alt="View Ivan Loreto's profile on LinkedIn"> </a>
+			<img src="images/btn_liprofile_blue_80x15.png" width="80" height="15" border="0" alt="View Ivan Loreto's profile on LinkedIn"> 
+		</a>
+		
+
 
 		</p>
 	</div>
